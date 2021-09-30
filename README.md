@@ -144,9 +144,13 @@ git push -u origin <your_branch_name>
 
 ---
 <!--START_SECTION-->
+## Format to follow:
+```
+| 1. | [Your Name](Github link) | [Social](Social Link)  | Fun Fact about you | Language you love |
+```
 
 ## Add Your Names and Super fun facts in the Table below 🤩
-| Sr. no.| Name✨| Social | A fact about yourself 💯 | Your 💖 Language |
+| Sr. no.| Name✨| Social | A fact about yourself 💯 | Language you 💖 |
 |--|--|--|--|--|
 | 1. | [Devraj Chatribin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|Sarcasm 😂|
 | 2. | [Saksham Gurbhele](https://github.com/sakshamgurbhele) | [Twitter](https://twitter.com/sakshamm_9)  | I cook food 🍲 and love to loop Spotify Playlists :P |Java 🚀|
@@ -154,7 +158,7 @@ git push -u origin <your_branch_name>
 | 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
 | 5. | [Greeshma](https://github.com/) | [LinkedIn]()  | I live in goa & I don't know what is party 🥲 | Sarcasm 😂|
 | 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm 😂|
-| 6. | [Nimish](https://github.com/) |[Instagram]() | I love to play basketball 🏀 | Sarcasm 😂|
+| 7. | [Nimish](https://github.com/) |[Instagram]() | I love to play basketball 🏀 | Sarcasm 😂|
 
 <!-- Add your names here -->
 
