@@ -158,7 +158,7 @@ git push -u origin <your_branch_name>
 | 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
 | 5. | [Greeshma](https://github.com/) | [Twitter](https://twitter.com/GreeshmaMedam)  | I am big foodie 😋 and a Potterhead ⚡| JavaScript 💻 |
 | 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm 😂|
-| 7. | [Nimish](https://github.com/) |[Instagram]() | I love to play basketball 🏀 | Sarcasm 😂|
+| 7. | [Nimish Jain](https://github.com/nimishjn) |[Portfolio](https://www.nimish-jain.com) | Basketball🏀 Food😋 Music🎵| JavaScript 👨‍💻|
 
 <!-- Add your names here -->
 
