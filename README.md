@@ -148,7 +148,7 @@ git push -u origin <your_branch_name>
 ## Add Your Names and Super fun facts in the Table below 🤩
 | Sr. no.| Name✨| Social | A fact about yourself 💯 | Your 💖 Language |
 |--|--|--|--|--|
-| 1. | [Devraj Chaterbin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|Sarcasm 😂|
+| 1. | [Devraj Chatribin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|Sarcasm 😂|
 | 2. | [Saksham Gurbhele](https://github.com/sakshamgurbhele) | [Twitter](https://twitter.com/sakshamm_9)  | I cook food 🍲 and love to loop Spotify Playlists :P |Java 🚀|
 | 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Spotify]() | I am lost, come back later xD | Sarcasm 😂|
 | 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
