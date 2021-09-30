@@ -130,7 +130,7 @@ git push -u origin <your_branch_name>
   
   
 ## Project Maintainers 🛠
- <div align="center">
+ <div align="left">
 <table>
   <tbody>
       
