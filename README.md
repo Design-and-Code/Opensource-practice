@@ -154,7 +154,7 @@ git push -u origin <your_branch_name>
 |--|--|--|--|--|
 | 1. | [Devraj Chatribin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|Sarcasm 😂|
 | 2. | [Saksham Gurbhele](https://github.com/sakshamgurbhele) | [Twitter](https://twitter.com/sakshamm_9)  | I cook food 🍲 and love to loop Spotify Playlists :P |Java 🚀|
-| 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Spotify]() | I am lost, come back later xD | Sarcasm 😂|
+| 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Twitter](https://twitter.com/isshefalguni) | Am I really that person you think of me? | Sarcasm 😂|
 | 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
 | 5. | [Greeshma](https://github.com/) | [Twitter](https://twitter.com/GreeshmaMedam)  | I am big foodie 😋 and a Potterhead ⚡| JavaScript 💻 |
 | 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm 😂|
