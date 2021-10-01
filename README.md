@@ -159,6 +159,7 @@ git push -u origin <your_branch_name>
 | 5. | [Greeshma](https://github.com/) | [Twitter](https://twitter.com/GreeshmaMedam)  | I am big foodie 😋 and a Potterhead ⚡| JavaScript 💻 |
 | 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm 😂|
 | 7. | [Nimish Jain](https://github.com/nimishjn) |[Portfolio](https://www.nimish-jain.com) | Basketball🏀 Food😋 Music🎵| JavaScript 👨‍💻|
+| 8. | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic) |[Discord](https://discord.gg/Ug4fhB9P) | I am a huge fan of the Avengers🤩| Python 🐍|
 
 <!-- Add your names here -->
 
