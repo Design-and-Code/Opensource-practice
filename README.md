@@ -65,7 +65,7 @@ git clone https://github.com/<your_user_name>/Hacktoberfest-practice.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd 
+cd Hacktoberfest-practice
 ```
 
 **4.** Add a reference(remote) to the original repository.
