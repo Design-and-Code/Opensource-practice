@@ -163,6 +163,7 @@ git push -u origin <your_branch_name>
 | 9. | [Avni ](https://github.com/avanii16) | [Github](https://github.com/avanii16)  | I read books, I am a Potterhead | CSS ✨|
 | 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
 | 10.| [Ekta Arora ](https://github.com/ektaarora16) | [linkedin](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
+| 11.| [Mahi Chowdhury ](https://github.com/Mahich123) | [linkedin](linkedin.com/in/mahi-chowdhury)  | I love React but exploring Java✨| Java ✨|
 
 <!-- Add your names here -->
 
