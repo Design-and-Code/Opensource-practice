@@ -162,7 +162,7 @@ git push -u origin <your_branch_name>
 | 8. | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic) |[Discord](https://discord.gg/Ug4fhB9P) | I am a huge fan of the Avengers🤩| Python 🐍|
 | 9. | [Avni ](https://github.com/avanii16) | [Github](https://github.com/avanii16)  | I read books, I am a Potterhead | CSS ✨|
 | 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
-| 10.| [Ekta Arora ](https://github.com/ektaarora16) | [linkedin](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
+| 11.| [Ekta Arora ](https://github.com/ektaarora16) | [linkedin](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
 
 <!-- Add your names here -->
 
