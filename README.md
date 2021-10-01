@@ -164,6 +164,8 @@ git push -u origin <your_branch_name>
 | 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
 | 11.| [Ekta Arora ](https://github.com/ektaarora16) | [linkedin](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
 | 12.| [Mahi Chowdhury ](https://github.com/Mahich123) | [linkedin](https://www.linkedin.com/in/mahi-chowdhury/)  | I love React js but exploring Java ✨| Java ✨|
+| 13.| [Aman Tyagi ](https://github.com/amantyagi994) | [Twitter](https://twitter.com/aman__tyagi)  | I enjoy playing Chess ♟ | JavaScript 🐱‍💻 |
+
 
 <!-- Add your names here -->
 
