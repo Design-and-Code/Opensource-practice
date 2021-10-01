@@ -59,19 +59,19 @@ To start contributing, follow the below guidelines:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/Projects-showcase.git
+git clone https://github.com/<your_user_name>/Hacktoberfest-practice.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Projects-showcase
+cd 
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Design-and-Code/Projects-showcase.git
+git remote add upstream https://github.com/Design-and-Code/Hacktoberfest-practice.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -119,7 +119,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila! You have made a PR to the Hacktoberfest-practice 💥 . Wait for your submission to be accepted and your PR to be merged.
 
   
 #### Note : 
