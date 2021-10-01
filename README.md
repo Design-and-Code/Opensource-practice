@@ -161,6 +161,7 @@ git push -u origin <your_branch_name>
 | 7. | [Nimish Jain](https://github.com/nimishjn) |[Portfolio](https://www.nimish-jain.com) | Basketball🏀 Food😋 Music🎵| JavaScript 👨‍💻|
 | 8. | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic) |[Discord](https://discord.gg/Ug4fhB9P) | I am a huge fan of the Avengers🤩| Python 🐍|
 | 9. | [Avni ](https://github.com/avanii16) | [Github](https://github.com/avanii16)  | I read books, I am a Potterhead | CSS ✨|
+| 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
 
 <!-- Add your names here -->
 
