@@ -59,19 +59,19 @@ To start contributing, follow the below guidelines:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/Projects-showcase.git
+git clone https://github.com/<your_user_name>/Hacktoberfest-practice.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Projects-showcase
+cd Hacktoberfest-practice
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Design-and-Code/Projects-showcase.git
+git remote add upstream https://github.com/Design-and-Code/Hacktoberfest-practice.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -119,7 +119,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila! You have made a PR to the Hacktoberfest-practice 💥 . Wait for your submission to be accepted and your PR to be merged.
 
   
 #### Note : 
@@ -164,6 +164,8 @@ git push -u origin <your_branch_name>
 | 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
 | 11.| [Ekta Arora ](https://github.com/ektaarora16) | [linkedin](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
 | 12.| [Mahi Chowdhury ](https://github.com/Mahich123) | [linkedin](https://www.linkedin.com/in/mahi-chowdhury/)  | I love React js but exploring Java ✨| Java ✨|
+| 13.| [Aman Tyagi ](https://github.com/amantyagi994) | [Twitter](https://twitter.com/aman__tyagi)  | I enjoy playing Chess ♟ | JavaScript 🐱‍💻 |
+
 
 <!-- Add your names here -->
 
