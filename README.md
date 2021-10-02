@@ -40,7 +40,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
   
  ---
 
-<h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
+<h3 align="left"> <b>Join our Community and feel free to drop your questions on</h3>
 <p align="center">
    <a href="https://discord.gg/druweDMn3s">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
