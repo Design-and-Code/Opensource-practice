@@ -157,7 +157,7 @@ git push -u origin <your_branch_name>
 | 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Twitter](https://twitter.com/isshefalguni) | Am I really that person you think of me? | Sarcasm 😂|
 | 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
 | 5. | [Greeshma](https://github.com/) | [Twitter](https://twitter.com/GreeshmaMedam)  | I am big foodie 😋 and a Potterhead ⚡| JavaScript 💻 |
-| 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm 😂|
+| 6. | [Nandani Paliwal](https://github.com/Nandani-Paliwal) |[Twitter](https://twitter.com/Nandani4678?s=09) | Currently busy in Proteus (college project) | Sarcasm 😂|
 | 7. | [Nimish Jain](https://github.com/nimishjn) |[Portfolio](https://www.nimish-jain.com) | Basketball🏀 Food😋 Music🎵| JavaScript 👨‍💻|
 | 8. | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic) |[Discord](https://discord.gg/Ug4fhB9P) | I am a huge fan of the Avengers🤩| Python 🐍|
 | 9. | [Avni ](https://github.com/avanii16) | [Github](https://github.com/avanii16)  | I read books, I am a Potterhead | CSS ✨|
