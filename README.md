@@ -166,10 +166,10 @@ git push -u origin <your_branch_name>
 | 12.| [Mahi Chowdhury ](https://github.com/Mahich123) | [linkedin](https://www.linkedin.com/in/mahi-chowdhury/)  | I love React js but exploring Java ✨| Java ✨|
 | 13.| [Aman Tyagi ](https://github.com/amantyagi994) | [Twitter](https://twitter.com/aman__tyagi)  | I enjoy playing Chess ♟ | JavaScript 🐱‍💻 |
 | 14.| [Ameesha Gireesh ](https://github.com/ameeshagireesh) | [Linkedin](https://www.linkedin.com/in/ameeshagireesh/)  | I love math and swimming | Python & JavaScript 🐱‍💻 |
+| 15.| [Rahul Kumar Roy ](https://github.com/mRahulRoy) | [Linkedin](https://www.linkedin.com/in/rahul-roy-a01730208)  | I Loves to write Code In Java/C++ | Java - JavaScript - C++ ✨|
 
 
 <!-- Add your names here -->
-
 ---
 <!--END_SECTION-->
 
