@@ -1,15 +1,15 @@
-# HacktoberFest Practice - Design and Code
+# Opensource-practice - Design and Code
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![GitHub license](https://img.shields.io/github/license/Design-and-Code/Hacktoberfest-practice)](https://github.com/Design-and-Code/Hacktoberfest-practice/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Design-and-Code/Opensource-practice)](https://github.com/Design-and-Code/Opensource-practice/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/813660012001624124)](https://discord.gg/dp7Y8H9ch8)
 
 
-## What is HacktoberFest-Practice?
-> #### This is a Practise Repo for you awesome people, to practise Pull requests by doing easy stuff. and also Showcase your names in this HacktoberFest Practise Repo, and let your sweet 💖 memory embbed here.
+## What is Opensource-practice?
+> #### This is a Practise Repo for you awesome people, to practise Pull requests by doing easy stuff. and also Showcase your names in this Opensource practice Repo, and let your sweet 💖 memory embbed here.
 
 
 
@@ -54,24 +54,24 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 Want to add your project to the repo? We invite you to contribute. 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this repository.](https://github.com/Design-and-Code/Hacktoberfest-practice) 
+**1.**  Fork [this repository.](https://github.com/Design-and-Code/Opensource-practice) 
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/Hacktoberfest-practice.git
+git clone https://github.com/<your_user_name>/Opensource-practice.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Hacktoberfest-practice
+cd Opensource-practice
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Design-and-Code/Hacktoberfest-practice.git
+git remote add upstream https://github.com/Design-and-Code/Opensource-practice.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -119,7 +119,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila! You have made a PR to the Hacktoberfest-practice 💥 . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila! You have made a PR to the Opensource-practice 💥 . Wait for your submission to be accepted and your PR to be merged.
 
   
 #### Note : 
@@ -175,8 +175,8 @@ git push -u origin <your_branch_name>
 <!--END_SECTION-->
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/Design-and-Code/Hacktoberfest-practice/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Hacktoberfest-practice" />
+<a href="https://github.com/Design-and-Code/Opensource-practice/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Opensource-practice" />
 </a>
 
 <div align="center">
