@@ -51,9 +51,9 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 Want to add your project to the repo? We invite you to contribute.
 To start contributing, follow the below guidelines:
 
-**1.**  Fork [this repository.](https://github.com/Design-and-Code/Opensource-practice)
+**1.** Fork [this repository.](https://github.com/Design-and-Code/Opensource-practice)
 
-**2.**  Clone your forked copy of the project.
+**2.** Clone your forked copy of the project.
 
 ```bash
 $ git clone https://github.com/<your_user_name>/Opensource-practice.git
@@ -94,7 +94,7 @@ $ git checkout -b <your_branch_name>
 **9.** Track your changes ✔
 
 ```bash
-$ git add . 
+$ git add .
 ```
 
 **10.** Commit your changes .
@@ -119,10 +119,10 @@ git push -u origin <your_branch_name>
 
 #### Note
 
-> Please do not edit anything above ```<!--START_SECTION-->``` and below ```<!--END_SECTION-->``` in README.MD
+> Please do not edit anything above `<!--START_SECTION-->` and below `<!--END_SECTION-->` in README.MD
 
 ---
-  
+
 ## Project Maintainers 🛠
 
  <div align="left">
@@ -138,36 +138,40 @@ git push -u origin <your_branch_name>
 </div>
 
 ---
+
 <!--START_SECTION-->
 
 ## Format to follow
 
 ```markdown
-| 1. | [Your Name](GitHub link) | [Social](Social Link)  | Fun Fact about you | Language you love |
+| 1. | [Your Name](GitHub link) | [Social](Social Link) | Fun Fact about you | Language you love |
 ```
+
 ## Add Your Names and Super fun facts in the Table below 🤩
 
-| Sr. no.| Name✨| Social | A fact about yourself 💯 | Language you 💖 |
-|--|--|--|--|--|
-| 1. | [Devraj Chatribin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|Sarcasm 😂|
-| 2. | [Saksham Gurbhele](https://github.com/sakshamgurbhele) | [Twitter](https://twitter.com/sakshamm_9)  | I cook food 🍲 and love to loop Spotify Playlists :P |Java 🚀|
-| 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Twitter](https://twitter.com/isshefalguni) | Am I really that person you think of me? | Sarcasm 😂|
-| 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm 😂|
-| 5. | [Greeshma](https://github.com/) | [Twitter](https://twitter.com/GreeshmaMedam)  | I am big foodie 😋 and a Potterhead ⚡| JavaScript 💻 |
-| 6. | [Nandani Paliwal](https://github.com/Nandani-Paliwal) |[Twitter](https://twitter.com/Nandani4678?s=09) | Currently busy in Proteus (college project) | Sarcasm 😂|
-| 7. | [Nimish Jain](https://github.com/nimishjn) |[Portfolio](https://www.nimish-jain.com) | Basketball🏀 Food😋 Music🎵| JavaScript 👨‍💻|
-| 8. | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic) |[Discord](https://discord.gg/Ug4fhB9P) | I am a huge fan of the Avengers🤩| Python 🐍|
-| 9. | [Avni ](https://github.com/avanii16) | [Github](https://github.com/avanii16)  | I read books, I am a Potterhead | CSS ✨|
-| 10.| [Aaquib Ali ](https://github.com/AaquibAli) | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)  | I know it's crazy, but I love to eat… | Javascript ✨|
-| 11.| [Ekta Arora ](https://github.com/ektaarora16) | [LinkedIn](https://www.linkedin.com/in/ekta-arora-16ea/)  | I love to explore new things ✨| Java ✨|
-| 12.| [Mahi Chowdhury ](https://github.com/Mahich123) | [LinkedIn](https://www.linkedin.com/in/mahi-chowdhury/)  | I love React js but exploring Java ✨| Java ✨|
-| 13.| [Aman Tyagi ](https://github.com/amantyagi994) | [Twitter](https://twitter.com/aman__tyagi)  | I enjoy playing Chess ♟ | JavaScript 🐱‍💻 |
-| 14.| [Ameesha Gireesh ](https://github.com/ameeshagireesh) | [LinkedIn](https://www.linkedin.com/in/ameeshagireesh/)  | I love math and swimming | Python & JavaScript 🐱‍💻 |
-| 15. | [Anubhav](https://github.com/anubhav201241) |[Portfolio](https://the-awesome-anubhav-site.netlify.app/) | Basketball🏀 Anime❤ Music🎵| Computer Vison 👨‍💻|
+| Sr. no. | Name✨                                                  | Social                                                     | A fact about yourself 💯                             | Language you 💖           |
+| ------- | ------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- | ------------------------- |
+| 1.      | [Devraj Chatribin](https://github.com/DevrajDC)         | [Twitter](https://twitter.com/devrajchatribin)             | College takes my 14 hours from 24 sed lyf 🥲          | Sarcasm 😂                |
+| 2.      | [Saksham Gurbhele](https://github.com/sakshamgurbhele)  | [Twitter](https://twitter.com/sakshamm_9)                  | I cook food 🍲 and love to loop Spotify Playlists :P | Java 🚀                   |
+| 3.      | [Falguni Sarkar](https://github.com/lostgirljourney)    | [Twitter](https://twitter.com/isshefalguni)                | Am I really that person you think of me?             | Sarcasm 😂                |
+| 4.      | [Anirudha Das](https://github.com/)                     | [Discord]()                                                | yato yato yato, idk what it means :P                 | Sarcasm 😂                |
+| 5.      | [Greeshma](https://github.com/)                         | [Twitter](https://twitter.com/GreeshmaMedam)               | I am big foodie 😋 and a Potterhead ⚡               | JavaScript 💻             |
+| 6.      | [Nandani Paliwal](https://github.com/Nandani-Paliwal)   | [Twitter](https://twitter.com/Nandani4678?s=09)            | Currently busy in Proteus (college project)          | Sarcasm 😂                |
+| 7.      | [Nimish Jain](https://github.com/nimishjn)              | [Portfolio](https://www.nimish-jain.com)                   | Basketball🏀 Food😋 Music🎵                          | JavaScript 👨‍💻             |
+| 8.      | [Hardik Jaiswal](https://github.com/Pseudo-Pythonic)    | [Discord](https://discord.gg/Ug4fhB9P)                     | I am a huge fan of the Avengers🤩                    | Python 🐍                 |
+| 9.      | [Avni ](https://github.com/avanii16)                    | [Github](https://github.com/avanii16)                      | I read books, I am a Potterhead                      | CSS ✨                    |
+| 10.     | [Aaquib Ali ](https://github.com/AaquibAli)             | [Instgram](https://www.instagram.com/_bilinmez_aaquib/)    | I know it's crazy, but I love to eat…                | Javascript ✨             |
+| 11.     | [Ekta Arora ](https://github.com/ektaarora16)           | [LinkedIn](https://www.linkedin.com/in/ekta-arora-16ea/)   | I love to explore new things ✨                      | Java ✨                   |
+| 12.     | [Mahi Chowdhury ](https://github.com/Mahich123)         | [LinkedIn](https://www.linkedin.com/in/mahi-chowdhury/)    | I love React js but exploring Java ✨                | Java ✨                   |
+| 13.     | [Aman Tyagi ](https://github.com/amantyagi994)          | [Twitter](https://twitter.com/aman__tyagi)                 | I enjoy playing Chess ♟                              | JavaScript 🐱‍💻          |
+| 14.     | [Ameesha Gireesh ](https://github.com/ameeshagireesh)   | [LinkedIn](https://www.linkedin.com/in/ameeshagireesh/)    | I love math and swimming                             | Python & JavaScript 🐱‍💻 |
+| 15.     | [Anubhav](https://github.com/anubhav201241)             | [Portfolio](https://the-awesome-anubhav-site.netlify.app/) | Basketball🏀 Anime❤ Music🎵                          | Computer Vison 👨‍💻         |
+| 16.     | [Franklin Ohaegbulam](https://github.com/frankiefab100) | [Twitter](https://twitter.com/frankiefab100)               | I'm a Polyglot that likes multitasking               | Javascript & French       |
 
 <!-- Add your names here -->
 
 ---
+
 <!--END_SECTION-->
 
 ## Our valuable Contributors 👩‍💻👨‍💻
