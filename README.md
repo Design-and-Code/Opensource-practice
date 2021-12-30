@@ -167,6 +167,7 @@ git push -u origin <your_branch_name>
 | 14.     | [Ameesha Gireesh ](https://github.com/ameeshagireesh)   | [LinkedIn](https://www.linkedin.com/in/ameeshagireesh/)    | I love math and swimming                             | Python & JavaScript 🐱‍💻 |
 | 15.     | [Anubhav](https://github.com/anubhav201241)             | [Portfolio](https://the-awesome-anubhav-site.netlify.app/) | Basketball🏀 Anime❤ Music🎵                          | Computer Vison 👨‍💻         |
 | 16.     | [Franklin Ohaegbulam](https://github.com/frankiefab100) | [Twitter](https://twitter.com/frankiefab100)               | I'm a Polyglot that likes multitasking               | Javascript & French       |
+| 17.     | [Mohasin Haque](https://github.com/Mohasin-Haque)       | [Twitter](https://twitter.com/mohasin_haque)               | Coding -> Sleeping -> Eating -> Repeating 😅          | JavaScript 👨‍💻              |
 
 <!-- Add your names here -->
 
