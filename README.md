@@ -168,6 +168,7 @@ git push -u origin <your_branch_name>
 | 15.     | [Anubhav](https://github.com/anubhav201241)             | [Portfolio](https://the-awesome-anubhav-site.netlify.app/) | Basketball🏀 Anime❤ Music🎵                          | Computer Vison 👨‍💻         |
 | 16.     | [Franklin Ohaegbulam](https://github.com/frankiefab100) | [Twitter](https://twitter.com/frankiefab100)               | I'm a Polyglot that likes multitasking               | Javascript & French       |
 | 17.     | [Mohasin Haque](https://github.com/Mohasin-Haque)       | [Twitter](https://twitter.com/mohasin_haque)               | Coding -> Sleeping -> Eating -> Repeating 😅          | JavaScript 👨‍💻              |
+| 18.     | [Aryan Raj](https://github.com/aryanraj2713)       | [Linkedin](https://www.linkedin.com/in/aryan-raj-3a68b39a/)               | Machine Learning is the future not web3🙂          | Python and Tensorflow 👨‍💻              |
 
 <!-- Add your names here -->
 
