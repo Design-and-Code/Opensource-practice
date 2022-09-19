@@ -169,6 +169,7 @@ git push -u origin <your_branch_name>
 | 16.     | [Franklin Ohaegbulam](https://github.com/frankiefab100) | [Twitter](https://twitter.com/frankiefab100)               | I'm a Polyglot that likes multitasking               | Javascript & French       |
 | 17.     | [Mohasin Haque](https://github.com/Mohasin-Haque)       | [Twitter](https://twitter.com/mohasin_haque)               | Coding -> Sleeping -> Eating -> Repeating 😅          | JavaScript 👨‍💻              |
 | 18.     | [Aryan Raj](https://github.com/aryanraj2713)       | [LinkedIn](https://www.linkedin.com/in/aryan-raj-3a68b39a/)               | Machine Learning is the future not web3🙂          | Python and Tensorflow 👨‍💻              |
+| 19.     | [Hemant](https://github.com/hemantwasthere)       | [Portfolio](https://itsmehemant.tech/)               | Open Source Lover 🤍          | Web Developer with the peppering of DevOps 🐧            |
 
 <!-- Add your names here -->
 
