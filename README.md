@@ -171,6 +171,7 @@ git push -u origin <your_branch_name>
 | 18.     | [Aryan Raj](https://github.com/aryanraj2713)                | [LinkedIn](https://www.linkedin.com/in/aryan-raj-3a68b39a/)     | Machine Learning is the future not web3🙂            | Python and Tensorflow 👨‍💻  |
 | 19.     | [Sankalp Srivastava](https://github.com/sankalp-srivastava) | [LinkedIn](https://www.linkedin.com/in/sankalpsrivastava-2605/) | In love with coding and chess                        | Python and JavaScript 👨‍💻  |
 | 20.     | [Shubham Jagtap](https://github.com/ShubhamJagtap2000)       | [LinkedIn](https://www.linkedin.com/in/shubhamjagtap14/)               | Movies teach more than school          | Python 🐍              |
+| 21.     | [Hemant](https://github.com/hemantwasthere)       | [Portfolio](https://itsmehemant.tech/)               | Open Source Lover 🤍          | Web Developer with the peppering of DevOps 🐧            |
 
 <!-- Add your names here -->
 
