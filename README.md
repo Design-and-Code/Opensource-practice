@@ -9,7 +9,7 @@
 
 ## What is Opensource-practice?
 
-> #### This is a Practise Repo for you awesome people, to practise Pull requests by doing easy stuff. and also Showcase your names in this Opensource practice Repo, and let your sweet 💖 memory embbed here.
+> #### This is a Practise Repo for you great people, to practise Pull requests by doing easy stuff. and also Showcase your names in this Opensource practice Repo, and let your sweet 💖 memory embbed here.
 
 ## [Design-and-Code](https://discord.gg/druweDMn3s)
 
