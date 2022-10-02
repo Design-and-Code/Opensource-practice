@@ -173,7 +173,8 @@ git push -u origin <your_branch_name>
 | 20.     | [Shubham Jagtap](https://github.com/ShubhamJagtap2000)       | [LinkedIn](https://www.linkedin.com/in/shubhamjagtap14/)               | Movies teach more than school          | Python 🐍              |
 | 21.     | [Hemant](https://github.com/hemantwasthere)       | [Portfolio](https://itsmehemant.tech/)               | Open Source Lover 🤍          | Web Developer with the peppering of DevOps 🐧            |
 | 22.     | [Sai Ram](https://github.com/ps1854) | [LinkedIn](https://www.linkedin.com/in/sai-ram-pendyala/) | I Love Music 🎵 | Python 👨‍💻 |
-| 23. | [Tamanna Sharma](https://github.com/Tamanna-S) | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
+| 23.     | [Shubham Patrick](https://github.com/AHTHneeuhl/)           | [LinkedIn](https://www.linkedin.com/in/ahthneeuhl/)             | Books & Music                                        | JavaScript & Python       |
+| 24.     | [Tamanna Sharma](https://github.com/Tamanna-S) | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
 
 <!-- Add your names here -->
 
