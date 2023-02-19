@@ -182,6 +182,7 @@ git push -u origin <your_branch_name>
 | 24.     | [Tamanna Sharma](https://github.com/Tamanna-S) | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
 
 <!-- Add your names here -->
+| 26.     | [Siddharth Verma](https://github.com/sidharthviz) | [LinkedIn](https://www.linkedin.com/in/siddharth-verma-2695ab192/) | I like coding, Books & Travel enthusiast |
 
 ---
 
