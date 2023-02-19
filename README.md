@@ -180,6 +180,7 @@ git push -u origin <your_branch_name>
 | 22.     | [Sai Ram](https://github.com/ps1854) | [LinkedIn](https://www.linkedin.com/in/sai-ram-pendyala/) | I Love Music 🎵 | Python 👨‍💻 |
 | 23.     | [Shubham Patrick](https://github.com/AHTHneeuhl/)           | [LinkedIn](https://www.linkedin.com/in/ahthneeuhl/)             | Books & Music                                        | JavaScript & Python       |
 | 24.     | [Tamanna Sharma](https://github.com/Tamanna-S) | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
+| 25.     | [Siddharth Verma](https://github.com/sidharthviz) | [LinkedIn](https://www.linkedin.com/in/siddharth-verma-2695ab192/) | I like coding, Books & Travel enthusiast |
 
 <!-- Add your names here -->
 
