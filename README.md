@@ -179,8 +179,9 @@ git push -u origin <your_branch_name>
 | 21.     | [Hemant](https://github.com/hemantwasthere)       | [Portfolio](https://itsmehemant.tech/)               | Open Source Lover 🤍          | Web Developer with the peppering of DevOps 🐧            |
 | 22.     | [Sai Ram](https://github.com/ps1854) | [LinkedIn](https://www.linkedin.com/in/sai-ram-pendyala/) | I Love Music 🎵 | Python 👨‍💻 |
 | 23.     | [Shubham Patrick](https://github.com/AHTHneeuhl/)           | [LinkedIn](https://www.linkedin.com/in/ahthneeuhl/)             | Books & Music                                        | JavaScript & Python       |
-| 24.     | [Tamanna Sharma](https://github.com/Tamanna-S) | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
+| 24.     | [Tamanna Sharma](https://github.com/Tamanna-S)    | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
 | 25.     | [Siddharth Verma](https://github.com/sidharthviz) | [LinkedIn](https://www.linkedin.com/in/siddharth-verma-2695ab192/) | I like coding, Books & Travel enthusiast |
+| 26.     | [Ebenezer R.](https://github.com/Itsfoss0)        | [Twitter](https://twitter.com/its_foss/)               | Lets talk DevOps and Cyber Sec | Python and C 👨‍💻              |
 
 <!-- Add your names here -->
 
