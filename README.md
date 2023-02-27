@@ -182,7 +182,7 @@ git push -u origin <your_branch_name>
 | 24.     | [Tamanna Sharma](https://github.com/Tamanna-S)    | [Twitter](https://twitter.com/__tanan__) | i am in love with javaScript!! | JavaScript! |
 | 25.     | [Siddharth Verma](https://github.com/sidharthviz) | [LinkedIn](https://www.linkedin.com/in/siddharth-verma-2695ab192/) | I like coding, Books & Travel enthusiast |
 | 26.     | [Ebenezer R.](https://github.com/Itsfoss0)        | [Twitter](https://twitter.com/its_foss/)               | Lets talk DevOps and Cyber Sec | Python and C 👨‍💻              |
-| 25.     | [Priyankar Pal](https://github.com/priyankarpal)  | [Twitter](https://twitter.com/priyankarpal)            | Crush Linux 🤩                                       | JAVA ✨                                       |
+| 27.     | [Priyankar Pal](https://github.com/priyankarpal)  | [Twitter](https://twitter.com/priyankarpal)            | Crush Linux 🤩                                       | JAVA ✨                                       |
 
 <!-- Add your names here -->
 
