@@ -183,6 +183,7 @@ git push -u origin <your_branch_name>
 | 25.     | [Siddharth Verma](https://github.com/sidharthviz) | [LinkedIn](https://www.linkedin.com/in/siddharth-verma-2695ab192/) | I like coding, Books & Travel enthusiast |
 | 26.     | [Ebenezer R.](https://github.com/Itsfoss0)        | [Twitter](https://twitter.com/its_foss/)               | Lets talk DevOps and Cyber Sec | Python and C 👨‍💻              |
 | 27.     | [Priyankar Pal](https://github.com/priyankarpal)  | [Twitter](https://twitter.com/priyankarpal)            | Crush Linux 🤩                                       | JAVA ✨                                       |
+| 28. | [Alkaison](https://github.com/Alkaison) | [LinkedIn](https://linkedin.com/in/Alkaison) | I can multi-task while eating 🤣 | C++ |
 
 <!-- Add your names here -->
 
