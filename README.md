@@ -185,8 +185,7 @@ git push -u origin <your_branch_name>
 | 27.     | [Priyankar Pal](https://github.com/priyankarpal)  | [Twitter](https://twitter.com/priyankarpal)            | Crush Linux 🤩                                       | JAVA ✨                                       |
 | 28. | [Alkaison](https://github.com/Alkaison) | [LinkedIn](https://linkedin.com/in/Alkaison) | I can multi-task while eating 🤣 | C++ |
 | 29. | [Sajib Adhikary](https://github.com/sajibAdhi) | [LinkedIn](https://linkedin.com/in/sajibadhi) | I don't know what I am eating while coding 😅 | PHP |
-
-<!-- Add your names here -->
+| 30. | [Annarhysa Albert](https://github.com/Annarhysa) | [LinkedIn](https://www.linkedin.com/in/annarhysa-albert-92550918b/) | I sing well. That's what I think 🤔 | Python |
 
 ---
 
