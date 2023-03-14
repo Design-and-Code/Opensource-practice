@@ -188,7 +188,7 @@ git push -u origin <your_branch_name>
 
 <!-- Add your names here -->
 
----
+| 30. | [Ahmad Kamran](https://github.com/kamran-2) | [LinkedIn](https://linkedin.com/in/ahmadkamran2) | React | Python
 
 <!--END_SECTION-->
 
