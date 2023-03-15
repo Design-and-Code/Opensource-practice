@@ -185,10 +185,12 @@ git push -u origin <your_branch_name>
 | 27.     | [Priyankar Pal](https://github.com/priyankarpal)  | [Twitter](https://twitter.com/priyankarpal)            | Crush Linux 🤩                                       | JAVA ✨                                       |
 | 28. | [Alkaison](https://github.com/Alkaison) | [LinkedIn](https://linkedin.com/in/Alkaison) | I can multi-task while eating 🤣 | C++ |
 | 29. | [Sajib Adhikary](https://github.com/sajibAdhi) | [LinkedIn](https://linkedin.com/in/sajibadhi) | I don't know what I am eating while coding 😅 | PHP |
+| 30. | [Ahmad Kamran](https://github.com/kamran-2) | [LinkedIn](https://linkedin.com/in/ahmadkamran2) | I am Error generator👩‍💻 | React & Python
 
 <!-- Add your names here -->
 
 ---
+
 
 <!--END_SECTION-->
 
