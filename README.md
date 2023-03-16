@@ -187,6 +187,7 @@ git push -u origin <your_branch_name>
 | 29. | [Sajib Adhikary](https://github.com/sajibAdhi) | [LinkedIn](https://linkedin.com/in/sajibadhi) | I don't know what I am eating while coding 😅 | PHP |
 | 30. | [Ahmad Kamran](https://github.com/kamran-2) | [LinkedIn](https://linkedin.com/in/ahmadkamran2) | I am Error generator👩‍💻 | React & Python
 | 31. | [Annarhysa Albert](https://github.com/Annarhysa) | [LinkedIn](https://www.linkedin.com/in/annarhysa-albert-92550918b/) | I sing well. That's what I think 🤔 | Python |
+| 32. | [Anusha SP](https://github.com/AnushaSP07) | [LinkedIn](https://www.linkedin.com/in/anushasp07/) | Good enough to RustleUp!!Skilled enough to Strive! | Java |
 
 <!-- Add your names here -->
 
