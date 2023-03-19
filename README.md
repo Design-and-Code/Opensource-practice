@@ -188,6 +188,7 @@ git push -u origin <your_branch_name>
 | 30. | [Ahmad Kamran](https://github.com/kamran-2) | [LinkedIn](https://linkedin.com/in/ahmadkamran2) | I am Error generator👩‍💻 | React & Python
 | 31. | [Annarhysa Albert](https://github.com/Annarhysa) | [LinkedIn](https://www.linkedin.com/in/annarhysa-albert-92550918b/) | I sing well. That's what I think 🤔 | Python |
 | 32. | [Anusha SP](https://github.com/AnushaSP07) | [LinkedIn](https://www.linkedin.com/in/anushasp07/) | Good enough to RustleUp!!Skilled enough to Strive! | Java |
+| 33. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
 
 <!-- Add your names here -->
 
