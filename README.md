@@ -190,6 +190,9 @@ git push -u origin <your_branch_name>
 | 32. | [Anusha SP](https://github.com/AnushaSP07) | [LinkedIn](https://www.linkedin.com/in/anushasp07/) | Good enough to RustleUp!!Skilled enough to Strive! | Java |
 | 33. | [Prithvi Shah](https://github.com/Prithvi2310) | [LinkedIn](https://www.linkedin.com/in/prithvishah23/) | Força Barça ❤💙 | Python and C++ |
 | 34. | [Adil Sheikh](https://github.com/adilcodes) | [Instagram](https://www.instagram.com/adil.codes/) | In love with coding, designing and football 💙 | Javascript & React |
+
+<!-- Add your names here -->
+
 ---
 
 
