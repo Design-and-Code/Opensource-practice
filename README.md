@@ -191,6 +191,8 @@ git push -u origin <your_branch_name>
 | 33. | [Prithvi Shah](https://github.com/Prithvi2310) | [LinkedIn](https://www.linkedin.com/in/prithvishah23/) | Força Barça ❤💙 | Python and C++ |
 | 34. | [Adil Sheikh](https://github.com/adilcodes) | [Instagram](https://www.instagram.com/adil.codes/) | In love with coding, designing and football 💙 | Javascript & React |
 | 35. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
+| 36. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
+
 
 <!-- Add your names here -->
 
