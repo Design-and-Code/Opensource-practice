@@ -1,7 +1,7 @@
 # Opensource practice - Design and Code
 
 > **Note**
-> 
+>
 > This repository is not included in the Hacktoberfest event.\
 > It is used to practice when making your first steps into open-source.
 
@@ -40,13 +40,13 @@ Welcome to Design & Code where anyone interested in designing and coding can con
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <br />
-  
+
  ---
 
 <h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
 <p align="center">
    <a href="https://discord.gg/druweDMn3s">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
 ---
@@ -133,7 +133,7 @@ git push -u origin <your_branch_name>
  <div align="left">
 <table>
   <tbody>
-      
+
   <td align="center"><a href="https://github.com/DevrajDC"><img alt="github profile" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> UI  /  UX Designer</a></td> </a></td>
 
   <td align="center"><a href="https://github.com/sakshamgurbhele"><img alt="github profile" src="https://avatars.githubusercontent.com/u/64558515" width="130px;"><br><sub><b> Saksham Gurbhele </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> Android Developer </a></td> </a></td>
