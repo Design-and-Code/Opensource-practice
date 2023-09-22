@@ -193,6 +193,7 @@ git push -u origin <your_branch_name>
 | 35. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
 | 36. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
 | 37. | [Abhijit More](https://github.com/abhijit-hub) | [LinkedIn](linkedin.com/in/abhijit-more-aa7328249/) | Eat-> Code-> Gym 🔁 Repeat | Java, Web devlopment & Designing |
+| 38. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
 
 <!-- Add your names here -->
 
