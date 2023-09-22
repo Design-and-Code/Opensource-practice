@@ -56,42 +56,42 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 Want to add your project to the repo? We invite you to contribute.
 To start contributing, follow the below guidelines:
 
-**1.** Fork [this repository.](https://github.com/Design-and-Code/Opensource-practice)
+**1.** Fork [this repository](https://github.com/Design-and-Code/Opensource-practice/fork).
 
 **2.** Clone your forked copy of the project.
 
 ```bash
-$ git clone https://github.com/<your_user_name>/Opensource-practice.git
+git clone https://github.com/<your_user_name>/Opensource-practice.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```bash
-$ cd Opensource-practice
+cd Opensource-practice
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```bash
-$ git remote add upstream https://github.com/Design-and-Code/Opensource-practice.git
+git remote add upstream https://github.com/Design-and-Code/Opensource-practice.git
 ```
 
 **5.** Check the remotes for this repository.
 
 ```bash
-$ git remote -v
+git remote -v
 ```
 
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
 ```bash
-$ git pull upstream main
+git pull upstream main
 ```
 
 **7.** Create a new branch.
 
 ```bash
-$ git checkout -b <your_branch_name>
+git checkout -b <your_branch_name>
 ```
 
 **8.** Perfom your desired changes to the code base.
@@ -99,13 +99,13 @@ $ git checkout -b <your_branch_name>
 **9.** Track your changes ✔
 
 ```bash
-$ git add .
+git add .
 ```
 
 **10.** Commit your changes .
 
 ```bash
-$ git commit -m "Relevant message"
+git commit -m "Relevant message"
 ```
 
 **11.** Push the committed changes in your feature branch to your remote repo.
@@ -192,9 +192,8 @@ git push -u origin <your_branch_name>
 | 34. | [Adil Sheikh](https://github.com/adilcodes) | [Instagram](https://www.instagram.com/adil.codes/) | In love with coding, designing and football 💙 | Javascript & React |
 | 35. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
 | 36. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
-| 37. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
-
-
+| 37. | [Abhijit More](https://github.com/abhijit-hub) | [LinkedIn](linkedin.com/in/abhijit-more-aa7328249/) | Eat-> Code-> Gym 🔁 Repeat | Java, Web devlopment & Designing |
+| 38. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
 
 <!-- Add your names here -->
 
