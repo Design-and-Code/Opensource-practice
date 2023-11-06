@@ -194,6 +194,7 @@ git push -u origin <your_branch_name>
 | 36. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
 | 37. | [Abhijit More](https://github.com/abhijit-hub) | [LinkedIn](linkedin.com/in/abhijit-more-aa7328249/) | Eat-> Code-> Gym 🔁 Repeat | Java, Web devlopment & Designing |
 | 38. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
+| 39. | [Yogesh](https://github.com/y0geshx) | [Website](https://yogeshx.vercel.app/) | Déjà vu | JavaScript & Rust |
 
 <!-- Add your names here -->
 
