@@ -190,10 +190,11 @@ git push -u origin <your_branch_name>
 | 32. | [Anusha SP](https://github.com/AnushaSP07) | [LinkedIn](https://www.linkedin.com/in/anushasp07/) | Good enough to RustleUp!!Skilled enough to Strive! | Java |
 | 33. | [Prithvi Shah](https://github.com/Prithvi2310) | [LinkedIn](https://www.linkedin.com/in/prithvishah23/) | Força Barça ❤💙 | Python and C++ |
 | 34. | [Adil Sheikh](https://github.com/adilcodes) | [Instagram](https://www.instagram.com/adil.codes/) | In love with coding, designing and football 💙 | Javascript & React |
-| 35. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
-| 36. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
-| 37. | [Abhijit More](https://github.com/abhijit-hub) | [LinkedIn](linkedin.com/in/abhijit-more-aa7328249/) | Eat-> Code-> Gym 🔁 Repeat | Java, Web devlopment & Designing |
-| 38. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
+| 35. | [Elvis Earl](https://github.com/the-1Riddle) | [Twitter](https://twitter.com/rezz_code) | A character rare to find 😅 find me not | C# and sh |
+| 36. | [Muntazir Jahangir](https://github.com/muntazir99) | [LinkedIn](https://www.linkedin.com/in/muntazir-jahangir-83b83521a/) | Dark jokes are killing my humour & the dark circle is killing my sleep cycle 🫡 | Python | C++ |
+| 37. | [PKGzGMTH](https://github.com/PKGzGMTH) | [LinkedIn](https://www.linkedin.com/in/peakungg/) | I wanna be the very bestLike no one ever was | C, C++, Arduino, Python, Java, Node.js |
+| 38. | [Abhijit More](https://github.com/abhijit-hub) | [LinkedIn](linkedin.com/in/abhijit-more-aa7328249/) | Eat-> Code-> Gym 🔁 Repeat | Java, Web devlopment & Designing |
+| 39. | [Sandeep Pal](https://github.com/pal-sandeep) | [LinkedIn](https://www.linkedin.com/in/8sandeeppal/) | Linux, Open Source and DevOps ❤ | Python & Django |
 
 <!-- Add your names here -->
 
