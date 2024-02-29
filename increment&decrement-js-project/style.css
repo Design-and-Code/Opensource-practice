@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1D2B53;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box{
+    text-align: center;
+    margin: 0 auto;
+  margin-top: 100px;
+
+}
+
+.output{
+    font-size: 50px;
+    line-height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    /* background-color: rgba(46,241,255,0.9); */
+    margin-top: 100px;
+    border-radius: 100%;
+    /* -webkit-box-shadow:0px 0px 105px 45px rgba(46,241,255,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(46,241,255,0.9);
+box-shadow: 0px 0px 105px 45px rgba(46,241,255,0.9); */
+}
+
+.btnbox{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.onbtn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffee00;
+    border: none;
+    width: 150px;
+    height: 55px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.offbtn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+    border: none;
+    width: 150px;
+    height: 55px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+
+
+.decrementbtn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fe0000;
+    border: none;
+    width: 150px;
+    height: 55px;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+
+.decrementbtn:hover{
+    -webkit-box-shadow:0px 0px 105px 45px rgba(254,0,0,0.9);
+    -moz-box-shadow: 0px 0px 105px 45px rgba(254,0,0,0.9);
+    box-shadow: 0px 0px 105px 45px rgba(254,0,0,0.9);
+    transition: 1s ease-in-out;
+}
+
+.incrementbtn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #15ff00;
+    border: none;
+    width: 150px;
+    height: 55px;
+    font-size: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.incrementbtn:hover{
+    -webkit-box-shadow:0px 0px 105px 45px rgba(21,255,0,0.9);
+    -moz-box-shadow: 0px 0px 105px 45px rgba(21,255,0,0.9);
+    box-shadow: 0px 0px 105px 45px rgba(21,255,0,0.9);
+    transition: 1s ease-in-out;
+}
